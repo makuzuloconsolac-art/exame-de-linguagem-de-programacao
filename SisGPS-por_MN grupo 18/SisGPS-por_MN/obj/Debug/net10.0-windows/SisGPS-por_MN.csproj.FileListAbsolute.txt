@@ -1,0 +1,123 @@
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\SisGPS-por_MN.exe
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\SisGPS-por_MN.deps.json
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\SisGPS-por_MN.runtimeconfig.json
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\SisGPS-por_MN.dll
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\SisGPS-por_MN.pdb
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\MySqlConnector.dll
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.csproj.AssemblyReference.cache
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Form1.resources
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmAlterarEstado.resources
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmCadProjecto.resources
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmCadTarefa.resources
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmEquipa.resources
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmHistorico.resources
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmKanban.resources
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmPrincipal.resources
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmProjectos.resources
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmRelatorio.resources
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmSprints.resources
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmTarefas.resources
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.csproj.GenerateResource.cache
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.AssemblyInfoInputs.cache
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.AssemblyInfo.cs
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.csproj.CoreCompileInputs.cache
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-p.14619F1C.Up2Date
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.dll
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\refint\SisGPS-por_MN.dll
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.pdb
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.genruntimeconfig.cache
+C:\Users\Afonso Manuel\source\repos\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\ref\SisGPS-por_MN.dll
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Form1.resources
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmAlterarEstado.resources
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmCadProjecto.resources
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmCadTarefa.resources
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmEquipa.resources
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmHistorico.resources
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmKanban.resources
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmPrincipal.resources
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmProjectos.resources
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmRelatorio.resources
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmSprints.resources
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmTarefas.resources
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.csproj.GenerateResource.cache
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.AssemblyInfoInputs.cache
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.AssemblyInfo.cs
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.csproj.CoreCompileInputs.cache
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.dll
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\refint\SisGPS-por_MN.dll
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.pdb
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\SisGPS-por_MN.exe
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\SisGPS-por_MN.deps.json
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\SisGPS-por_MN.runtimeconfig.json
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\SisGPS-por_MN.dll
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\SisGPS-por_MN.pdb
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\MySqlConnector.dll
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.csproj.AssemblyReference.cache
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-p.14619F1C.Up2Date
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.genruntimeconfig.cache
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\ref\SisGPS-por_MN.dll
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\PdfSharpCore.dll
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\SixLabors.Fonts.dll
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\SixLabors.ImageSharp.dll
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\de\PdfSharpCore.resources.dll
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmLogin.resources
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmConfigSMTP.resources
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmRecuperarSenha.resources
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmRegistoUtilizador.resources
+C:\Users\msima\3D Objects\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmUtilizadores.resources
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\SisGPS-por_MN.exe
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\SisGPS-por_MN.deps.json
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\SisGPS-por_MN.runtimeconfig.json
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\SisGPS-por_MN.dll
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\SisGPS-por_MN.pdb
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\MySqlConnector.dll
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\PdfSharpCore.dll
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\SixLabors.Fonts.dll
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\SixLabors.ImageSharp.dll
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\bin\Debug\net10.0-windows\de\PdfSharpCore.resources.dll
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.csproj.AssemblyReference.cache
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Form1.resources
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmAlterarEstado.resources
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmCadProjecto.resources
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmCadTarefa.resources
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmConfigSMTP.resources
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmEquipa.resources
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmHistorico.resources
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmKanban.resources
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmLogin.resources
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmPrincipal.resources
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmProjectos.resources
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmRecuperarSenha.resources
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmRegistoUtilizador.resources
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmRelatorio.resources
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmSprints.resources
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmTarefas.resources
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS_por_MN.Forms.FrmUtilizadores.resources
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.csproj.GenerateResource.cache
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.AssemblyInfoInputs.cache
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.AssemblyInfo.cs
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.csproj.CoreCompileInputs.cache
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-p.14619F1C.Up2Date
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.dll
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\refint\SisGPS-por_MN.dll
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.pdb
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\SisGPS-por_MN.genruntimeconfig.cache
+C:\Users\Joao\Music\trabalho\SisGPS-por_MN\SisGPS-por_MN\obj\Debug\net10.0-windows\ref\SisGPS-por_MN.dll

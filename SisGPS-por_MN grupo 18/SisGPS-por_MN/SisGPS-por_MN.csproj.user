@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmAlterarEstado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmCadProjecto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmCadTarefa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmConfigSMTP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmEmails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmEquipa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmHistorico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmKanban.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmProjectos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmRecuperarSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmRegistoUtilizador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmRelatorio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmSprints.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmTarefas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmUtilizadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
