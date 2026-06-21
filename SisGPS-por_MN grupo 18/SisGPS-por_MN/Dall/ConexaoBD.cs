@@ -11,7 +11,7 @@ namespace SisGPS_por_MN.Dall
             Port = 3306,
             Database = "gestao_projectos",
             UserID = "root",
-            Password ="root123",
+            Password = string.Empty,
         }.ConnectionString;
 
         private static string ConnectionString =>

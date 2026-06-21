@@ -1,14 +1,98 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Joao\\Music\\trabalho\\SisGPS-por_MN\\",
+  "WorkspaceRootPath": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|c:\\users\\joao\\music\\trabalho\\sisgps-por_mn\\sisgps-por_mn\\dall\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\dall\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|c:\\users\\afonso manuel\\3d objects\\00\\sisgps-por_mn\\sisgps-por_mn\\modelos\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\modelos\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|c:\\users\\joao\\music\\trabalho\\sisgps-por_mn\\sisgps-por_mn\\sisgps-por_mn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\sisgps-por_mn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|c:\\users\\afonso manuel\\3d objects\\00\\sisgps-por_mn\\sisgps-por_mn\\modelos\\projecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\modelos\\projecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|c:\\users\\afonso manuel\\3d objects\\00\\sisgps-por_mn\\sisgps-por_mn\\exceptions\\membronaodisponivelexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\exceptions\\membronaodisponivelexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|c:\\users\\afonso manuel\\3d objects\\00\\sisgps-por_mn\\sisgps-por_mn\\enums\\nivelacesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\enums\\nivelacesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|c:\\users\\afonso manuel\\3d objects\\00\\sisgps-por_mn\\sisgps-por_mn\\enums\\estadotarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\enums\\estadotarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\sisgps-por_mn\\forms\\frmconfigsmtp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\forms\\frmconfigsmtp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|c:\\users\\afonso manuel\\3d objects\\00\\sisgps-por_mn\\sisgps-por_mn\\forms\\frmemails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\forms\\frmemails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|c:\\users\\afonso manuel\\3d objects\\00\\sisgps-por_mn\\sisgps-por_mn\\forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|c:\\users\\afonso manuel\\3d objects\\00\\sisgps-por_mn\\sisgps-por_mn\\forms\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\forms\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\sisgps-por_mn\\forms\\frmprojectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\forms\\frmprojectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\sisgps-por_mn\\forms\\frmrecuperarsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\forms\\frmrecuperarsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\sisgps-por_mn\\forms\\frmregistoutilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\forms\\frmregistoutilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\sisgps-por_mn\\forms\\frmrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\forms\\frmrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\sisgps-por_mn\\forms\\frmsprints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\forms\\frmsprints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\sisgps-por_mn\\forms\\frmtarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\forms\\frmtarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\sisgps-por_mn\\forms\\frmutilizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\forms\\frmutilizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\sisgps-por_mn\\forms\\frmhistorico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\forms\\frmhistorico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\sisgps-por_mn\\forms\\frmcadtarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\forms\\frmcadtarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|c:\\users\\afonso manuel\\3d objects\\00\\sisgps-por_mn\\sisgps-por_mn\\servicos\\servicoautenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\servicos\\servicoautenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|c:\\users\\afonso manuel\\3d objects\\00\\sisgps-por_mn\\sisgps-por_mn\\dall\\utilizadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\dall\\utilizadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|c:\\users\\afonso manuel\\3d objects\\00\\sisgps-por_mn\\sisgps-por_mn\\servicos\\servicodashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\servicos\\servicodashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|c:\\users\\afonso manuel\\3d objects\\00\\sisgps-por_mn\\sisgps-por_mn\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\sisgps-por_mn\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{538D917A-C555-8098-FF69-C42C31EF7441}|SisGPS-por_MN\\SisGPS-por_MN.csproj|solutionrelative:sisgps-por_mn\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,28 +107,275 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ConexaoBD.cs",
-              "DocumentMoniker": "C:\\Users\\Joao\\Music\\trabalho\\SisGPS-por_MN\\SisGPS-por_MN\\Dall\\ConexaoBD.cs",
-              "RelativeDocumentMoniker": "SisGPS-por_MN\\Dall\\ConexaoBD.cs",
-              "ToolTip": "C:\\Users\\Joao\\Music\\trabalho\\SisGPS-por_MN\\SisGPS-por_MN\\Dall\\ConexaoBD.cs*",
-              "RelativeToolTip": "SisGPS-por_MN\\Dall\\ConexaoBD.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Title": "Utilizador.cs",
+              "DocumentMoniker": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Modelos\\Utilizador.cs",
+              "RelativeDocumentMoniker": "SisGPS-por_MN\\Modelos\\Utilizador.cs",
+              "ToolTip": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Modelos\\Utilizador.cs",
+              "RelativeToolTip": "SisGPS-por_MN\\Modelos\\Utilizador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-20T20:51:57.96Z",
+              "WhenOpened": "2026-06-20T12:14:54.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SisGPS-por_MN.csproj",
-              "DocumentMoniker": "C:\\Users\\Joao\\Music\\trabalho\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
-              "RelativeDocumentMoniker": "SisGPS-por_MN\\SisGPS-por_MN.csproj",
-              "ToolTip": "C:\\Users\\Joao\\Music\\trabalho\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
-              "RelativeToolTip": "SisGPS-por_MN\\SisGPS-por_MN.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-20T16:56:19.733Z",
+              "Title": "Projecto.cs",
+              "DocumentMoniker": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Modelos\\Projecto.cs",
+              "RelativeDocumentMoniker": "SisGPS-por_MN\\Modelos\\Projecto.cs",
+              "ToolTip": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Modelos\\Projecto.cs",
+              "RelativeToolTip": "SisGPS-por_MN\\Modelos\\Projecto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T12:13:45.695Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MembroNaoDisponivelException.cs",
+              "DocumentMoniker": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Exceptions\\MembroNaoDisponivelException.cs",
+              "RelativeDocumentMoniker": "SisGPS-por_MN\\Exceptions\\MembroNaoDisponivelException.cs",
+              "ToolTip": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Exceptions\\MembroNaoDisponivelException.cs",
+              "RelativeToolTip": "SisGPS-por_MN\\Exceptions\\MembroNaoDisponivelException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T12:06:47.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NivelAcesso.cs",
+              "DocumentMoniker": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Enums\\NivelAcesso.cs",
+              "RelativeDocumentMoniker": "SisGPS-por_MN\\Enums\\NivelAcesso.cs",
+              "ToolTip": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Enums\\NivelAcesso.cs",
+              "RelativeToolTip": "SisGPS-por_MN\\Enums\\NivelAcesso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T12:05:47.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EstadoTarefa.cs",
+              "DocumentMoniker": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Enums\\EstadoTarefa.cs",
+              "RelativeDocumentMoniker": "SisGPS-por_MN\\Enums\\EstadoTarefa.cs",
+              "ToolTip": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Enums\\EstadoTarefa.cs",
+              "RelativeToolTip": "SisGPS-por_MN\\Enums\\EstadoTarefa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T12:04:48.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmEmails.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmEmails.cs",
+              "RelativeDocumentMoniker": "SisGPS-por_MN\\Forms\\FrmEmails.cs",
+              "ToolTip": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmEmails.cs [Projeto]",
+              "RelativeToolTip": "SisGPS-por_MN\\Forms\\FrmEmails.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T11:52:13.343Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmPrincipal.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "SisGPS-por_MN\\Forms\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmPrincipal.cs [Projeto]",
+              "RelativeToolTip": "SisGPS-por_MN\\Forms\\FrmPrincipal.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:19:59.36Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmConfigSMTP.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmConfigSMTP.cs",
+              "RelativeDocumentMoniker": "SisGPS-por_MN\\Forms\\FrmConfigSMTP.cs",
+              "ToolTip": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmConfigSMTP.cs [Projeto]",
+              "RelativeToolTip": "SisGPS-por_MN\\Forms\\FrmConfigSMTP.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:18:51.947Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmProjectos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmProjectos.cs",
+              "RelativeDocumentMoniker": "SisGPS-por_MN\\Forms\\FrmProjectos.cs",
+              "ToolTip": "C:\\Users\\msima\\3D Objects\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmProjectos.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\msima\\3D Objects\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmProjectos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:19:51.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "SisGPS-por_MN\\Forms\\FrmPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmPrincipal.Designer.cs",
+              "RelativeToolTip": "SisGPS-por_MN\\Forms\\FrmPrincipal.Designer.cs",
+              "ViewState": "AgIAAFABAAAAAAAAAAAAwFwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:20:02.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmRecuperarSenha.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmRecuperarSenha.cs",
+              "RelativeDocumentMoniker": "SisGPS-por_MN\\Forms\\FrmRecuperarSenha.cs",
+              "ToolTip": "C:\\Users\\msima\\3D Objects\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmRecuperarSenha.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\msima\\3D Objects\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmRecuperarSenha.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:19:49.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmRegistoUtilizador.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmRegistoUtilizador.cs",
+              "RelativeDocumentMoniker": "SisGPS-por_MN\\Forms\\FrmRegistoUtilizador.cs",
+              "ToolTip": "C:\\Users\\msima\\3D Objects\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmRegistoUtilizador.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\msima\\3D Objects\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmRegistoUtilizador.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:19:47.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmSprints.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmSprints.cs",
+              "RelativeDocumentMoniker": "SisGPS-por_MN\\Forms\\FrmSprints.cs",
+              "ToolTip": "C:\\Users\\msima\\3D Objects\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmSprints.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\msima\\3D Objects\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmSprints.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:19:44.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmUtilizadores.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmUtilizadores.cs",
+              "RelativeDocumentMoniker": "SisGPS-por_MN\\Forms\\FrmUtilizadores.cs",
+              "ToolTip": "C:\\Users\\msima\\3D Objects\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmUtilizadores.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\msima\\3D Objects\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmUtilizadores.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:19:42.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmTarefas.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmTarefas.cs",
+              "RelativeDocumentMoniker": "SisGPS-por_MN\\Forms\\FrmTarefas.cs",
+              "ToolTip": "C:\\Users\\msima\\3D Objects\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmTarefas.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\msima\\3D Objects\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmTarefas.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:19:37.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmRelatorio.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmRelatorio.cs",
+              "RelativeDocumentMoniker": "SisGPS-por_MN\\Forms\\FrmRelatorio.cs",
+              "ToolTip": "C:\\Users\\msima\\3D Objects\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmRelatorio.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\msima\\3D Objects\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmRelatorio.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:19:31.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmHistorico.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmHistorico.cs",
+              "RelativeDocumentMoniker": "SisGPS-por_MN\\Forms\\FrmHistorico.cs",
+              "ToolTip": "C:\\Users\\msima\\3D Objects\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmHistorico.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\msima\\3D Objects\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmHistorico.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:19:23.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmCadTarefa.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmCadTarefa.cs",
+              "RelativeDocumentMoniker": "SisGPS-por_MN\\Forms\\FrmCadTarefa.cs",
+              "ToolTip": "C:\\Users\\msima\\3D Objects\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmCadTarefa.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\msima\\3D Objects\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmCadTarefa.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:18:56.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UtilizadorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Dall\\UtilizadorRepository.cs",
+              "RelativeDocumentMoniker": "SisGPS-por_MN\\Dall\\UtilizadorRepository.cs",
+              "ToolTip": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Dall\\UtilizadorRepository.cs",
+              "RelativeToolTip": "SisGPS-por_MN\\Dall\\UtilizadorRepository.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T15:56:12.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ServicoDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Servicos\\ServicoDashboard.cs",
+              "RelativeDocumentMoniker": "SisGPS-por_MN\\Servicos\\ServicoDashboard.cs",
+              "ToolTip": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Servicos\\ServicoDashboard.cs",
+              "RelativeToolTip": "SisGPS-por_MN\\Servicos\\ServicoDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T15:55:52.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServicoAutenticacao.cs",
+              "DocumentMoniker": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Servicos\\ServicoAutenticacao.cs",
+              "RelativeDocumentMoniker": "SisGPS-por_MN\\Servicos\\ServicoAutenticacao.cs",
+              "ToolTip": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Servicos\\ServicoAutenticacao.cs",
+              "RelativeToolTip": "SisGPS-por_MN\\Servicos\\ServicoAutenticacao.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T15:53:10.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "SisGPS-por_MN\\Forms\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmLogin.cs",
+              "RelativeToolTip": "SisGPS-por_MN\\Forms\\FrmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T15:51:34.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmLogin.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "SisGPS-por_MN\\Forms\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\msima\\3D Objects\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmLogin.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\msima\\3D Objects\\SisGPS-por_MN\\SisGPS-por_MN\\Forms\\FrmLogin.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T15:51:28.721Z"
             }
           ]
         }

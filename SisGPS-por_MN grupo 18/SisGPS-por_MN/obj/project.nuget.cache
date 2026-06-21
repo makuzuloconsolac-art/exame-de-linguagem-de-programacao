@@ -1,100 +1,100 @@
 {
   "version": 2,
-  "dgSpecHash": "hymUUW0n6Y0=",
+  "dgSpecHash": "VaTaqvblU9k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Joao\\Music\\trabalho\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
+  "projectFilePath": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Joao\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
-    "C:\\Users\\Joao\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
-    "C:\\Users\\Joao\\.nuget\\packages\\mysqlconnector\\2.6.0\\mysqlconnector.2.6.0.nupkg.sha512",
-    "C:\\Users\\Joao\\.nuget\\packages\\pdfsharpcore\\1.3.65\\pdfsharpcore.1.3.65.nupkg.sha512",
-    "C:\\Users\\Joao\\.nuget\\packages\\sharpziplib\\1.4.2\\sharpziplib.1.4.2.nupkg.sha512",
-    "C:\\Users\\Joao\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta17\\sixlabors.fonts.1.0.0-beta17.nupkg.sha512",
-    "C:\\Users\\Joao\\.nuget\\packages\\sixlabors.imagesharp\\1.0.4\\sixlabors.imagesharp.1.0.4.nupkg.sha512"
+    "C:\\Users\\Afonso Manuel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Afonso Manuel\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Afonso Manuel\\.nuget\\packages\\mysqlconnector\\2.6.0\\mysqlconnector.2.6.0.nupkg.sha512",
+    "C:\\Users\\Afonso Manuel\\.nuget\\packages\\pdfsharpcore\\1.3.65\\pdfsharpcore.1.3.65.nupkg.sha512",
+    "C:\\Users\\Afonso Manuel\\.nuget\\packages\\sharpziplib\\1.4.2\\sharpziplib.1.4.2.nupkg.sha512",
+    "C:\\Users\\Afonso Manuel\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta17\\sixlabors.fonts.1.0.0-beta17.nupkg.sha512",
+    "C:\\Users\\Afonso Manuel\\.nuget\\packages\\sixlabors.imagesharp\\1.0.4\\sixlabors.imagesharp.1.0.4.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1903",
       "level": "Warning",
       "message": "O pacote 'SixLabors.ImageSharp' 1.0.4 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-2cmq-823j-5qj8",
-      "projectPath": "C:\\Users\\Joao\\Music\\trabalho\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
+      "projectPath": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Joao\\Music\\trabalho\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
+      "filePath": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
       "libraryId": "SixLabors.ImageSharp",
       "targetGraphs": [
-        "net10.0-windows"
+        "net10.0-windows7.0"
       ]
     },
     {
       "code": "NU1902",
       "level": "Warning",
       "message": "O pacote 'SixLabors.ImageSharp' 1.0.4 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-5x7m-6737-26cr",
-      "projectPath": "C:\\Users\\Joao\\Music\\trabalho\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
+      "projectPath": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Joao\\Music\\trabalho\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
+      "filePath": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
       "libraryId": "SixLabors.ImageSharp",
       "targetGraphs": [
-        "net10.0-windows"
+        "net10.0-windows7.0"
       ]
     },
     {
       "code": "NU1903",
       "level": "Warning",
       "message": "O pacote 'SixLabors.ImageSharp' 1.0.4 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-63p8-c4ww-9cg7",
-      "projectPath": "C:\\Users\\Joao\\Music\\trabalho\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
+      "projectPath": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Joao\\Music\\trabalho\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
+      "filePath": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
       "libraryId": "SixLabors.ImageSharp",
       "targetGraphs": [
-        "net10.0-windows"
+        "net10.0-windows7.0"
       ]
     },
     {
       "code": "NU1903",
       "level": "Warning",
       "message": "O pacote 'SixLabors.ImageSharp' 1.0.4 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-65x7-c272-7g7r",
-      "projectPath": "C:\\Users\\Joao\\Music\\trabalho\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
+      "projectPath": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Joao\\Music\\trabalho\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
+      "filePath": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
       "libraryId": "SixLabors.ImageSharp",
       "targetGraphs": [
-        "net10.0-windows"
+        "net10.0-windows7.0"
       ]
     },
     {
       "code": "NU1902",
       "level": "Warning",
       "message": "O pacote 'SixLabors.ImageSharp' 1.0.4 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-g85r-6x2q-45w7",
-      "projectPath": "C:\\Users\\Joao\\Music\\trabalho\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
+      "projectPath": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Joao\\Music\\trabalho\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
+      "filePath": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
       "libraryId": "SixLabors.ImageSharp",
       "targetGraphs": [
-        "net10.0-windows"
+        "net10.0-windows7.0"
       ]
     },
     {
       "code": "NU1902",
       "level": "Warning",
       "message": "O pacote 'SixLabors.ImageSharp' 1.0.4 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-qxrv-gp6x-rc23",
-      "projectPath": "C:\\Users\\Joao\\Music\\trabalho\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
+      "projectPath": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Joao\\Music\\trabalho\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
+      "filePath": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
       "libraryId": "SixLabors.ImageSharp",
       "targetGraphs": [
-        "net10.0-windows"
+        "net10.0-windows7.0"
       ]
     },
     {
       "code": "NU1902",
       "level": "Warning",
       "message": "O pacote 'SixLabors.ImageSharp' 1.0.4 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-rxmq-m78w-7wmc",
-      "projectPath": "C:\\Users\\Joao\\Music\\trabalho\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
+      "projectPath": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Joao\\Music\\trabalho\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
+      "filePath": "C:\\Users\\Afonso Manuel\\3D Objects\\00\\SisGPS-por_MN\\SisGPS-por_MN\\SisGPS-por_MN.csproj",
       "libraryId": "SixLabors.ImageSharp",
       "targetGraphs": [
-        "net10.0-windows"
+        "net10.0-windows7.0"
       ]
     }
   ]
